@@ -3,12 +3,11 @@
 Given a set of integers, sort it using a predefined set of instructions using
 two stacks.
 
-• You have 2 stacks named a and b.
-• At the beginning:
-◦ The stack a contains a random amount of negative and/or positive numbers
-which cannot be duplicated.
-◦ The stack b is empty.
-• The goal is to sort in ascending order numbers into stack a
+* You have 2 stacks named a and b.
+* At the beginning:
+  - The stack a contains a random amount of negative and/or positive numbers which cannot be duplicated.
+  - The stack b is empty.
+* The goal is to sort in ascending order numbers into stack a
 
 ## Instruction set
 
@@ -32,8 +31,9 @@ the instructions allowed are the following :
 ![image](https://github.com/alaato/push_swap/assets/68467723/457b84e6-63b5-4e2f-9c85-811905c25c62)
 ![image](https://github.com/alaato/push_swap/assets/68467723/10d9a565-c27c-4dd8-b33b-9c19d31d9292)
 ![image](https://github.com/alaato/push_swap/assets/68467723/bebbc975-f479-4a1d-8591-765ce1d79780)
-![image](https://github.com/alaato/push_swap/assets/68467723/80333c68-6f39-4ddf-ad66-19ccc7335b8b)
-![image](https://github.com/alaato/push_swap/assets/68467723/3e3d0161-921b-47aa-ae92-1afbf21c098d)
+![image](https://github.com/alaato/push_swap/assets/68467723/e9717137-1c60-4f58-9983-7deb20d6d598)
+![image](https://github.com/alaato/push_swap/assets/68467723/7216bc98-8c9e-4602-84d2-ad22c25d3112)
+
 
 
 
