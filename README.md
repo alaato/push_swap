@@ -36,4 +36,12 @@ the instructions allowed are the following :
 
 
 
+https://github.com/alaato/push_swap/assets/68467723/3c71a25b-0cfb-42aa-ae14-45a8473f750c
+
+https://github.com/alaato/push_swap/assets/68467723/f26d2ea9-7ce4-4c03-9643-496f75824b9b
+
+
+
+
+
 
