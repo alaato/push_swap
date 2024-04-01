@@ -1,0 +1,26 @@
+{
+	"cmake.configureOnOpen": true,
+	"cmake.sourceDirectory": "/home/alaa/42/pushswap/.vscode",
+	"files.associations": {
+		"*.ejs": "html",
+		"push_swap.h": "c",
+		"random": "c",
+		"chrono": "c",
+		"limits": "c",
+		"semaphore": "c",
+		"algorithm": "c",
+		"numbers": "c",
+		"optional": "c",
+		"ratio": "c",
+		"system_error": "c",
+		"array": "c",
+		"functional": "c",
+		"tuple": "c",
+		"type_traits": "c",
+		"utility": "c",
+		"variant": "c",
+		"stdlib.h": "c",
+		"libft.h": "c",
+		"stdarg.h": "c"
+	}
+}
