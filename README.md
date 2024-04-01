@@ -32,8 +32,7 @@ the instructions allowed are the following :
 ![image](https://github.com/alaato/push_swap/assets/68467723/457b84e6-63b5-4e2f-9c85-811905c25c62)
 ![image](https://github.com/alaato/push_swap/assets/68467723/10d9a565-c27c-4dd8-b33b-9c19d31d9292)
 ![image](https://github.com/alaato/push_swap/assets/68467723/bebbc975-f479-4a1d-8591-765ce1d79780)
-![image](https://github.com/alaato/push_swap/assets/68467723/d35ecdb0-8616-4959-898d-85db0d19c219)
-![image](https://github.com/alaato/push_swap/assets/68467723/985f385f-0048-4ba7-ae73-52dad527c47a)
+![image](https://github.com/alaato/push_swap/assets/68467723/3e3d0161-921b-47aa-ae92-1afbf21c098d)
 
 
 
